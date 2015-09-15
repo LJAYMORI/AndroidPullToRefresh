@@ -48,7 +48,7 @@ public class MainActivity extends AppCompatActivity {
         header.setPadding(0, PtrLocalDisplay.dp2px(15), 0, 0);
 
 
-        header.initWithString("Cooxing");
+        header.initWithString("input your string");
 
 
         refreshLayout.setDurationToClose(1000);
